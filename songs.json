@@ -1,0 +1,459 @@
+{
+  "songs": [
+    {
+      "title": "Spice Up Your Life",
+      "artist": "The Spice Girls",
+      "edition": "Just Dance 2",
+      "image": "https://cdn.glitch.global/a1edb1e1-27cb-4f54-a59c-9ecd7ca713d2/SpiceUpYourLife.png?v=1731720283324",
+      "video": "https://cdn.glitch.me/a1edb1e1-27cb-4f54-a59c-9ecd7ca713d2/Just%20Dance%202%20-%20Spice%20Up%20Your%20Life%20by%20The%20Spice%20Girls(1080P_HD)(480P).mp4?v=1731715330092"
+    },
+    {
+      "title": "Padam Padam",
+      "artist": "Kylie Minogue",
+      "edition": "Just Dance 2025 Edition",
+      "image": "https://cdn.glitch.global/a1edb1e1-27cb-4f54-a59c-9ecd7ca713d2/PadamALT_Cover_2x.png?v=1731716559182",
+      "video": "https://cdn.glitch.me/a1edb1e1-27cb-4f54-a59c-9ecd7ca713d2/Just%20Dance%202025%20Edition%20-%20Padam%20Padam%20by%20Kylie%20Minogue%20%5BNOHUD%5D(720P_60FPS).mp4?v=1731717244108"
+    },
+    {
+      "title": "Pink Venom",
+      "artist": "BLACKPINK",
+      "edition": "Just Dance 2025 Edition",
+      "image": "https://cdn.glitch.global/a1edb1e1-27cb-4f54-a59c-9ecd7ca713d2/PinkVenom.png?v=1731718787729",
+      "video": "https://cdn.glitch.me/a1edb1e1-27cb-4f54-a59c-9ecd7ca713d2/Just%20Dance%202025%20Edition%20-%20Pink%20Venom%20by%20BLACKPINK%20%5BNOHUD%5D(1080P_HD)(720P_60FPS).mp4?v=1731718720587"
+    },
+    {
+      "title": "break up with your girlfriend, i'm bored",
+      "artist": "Ariana Grande",
+      "edition": "Just Dance 2025 Edition",
+      "image": "https://cdn.glitch.global/a1edb1e1-27cb-4f54-a59c-9ecd7ca713d2/BreakUp.png?v=1731718788545",
+      "video": "https://cdn.glitch.me/a1edb1e1-27cb-4f54-a59c-9ecd7ca713d2/Just%20Dance%202025%20Edition%20-%20break%20up%20with%20your%20girlfriend_%20i_m%20bored%20by%20Ariana%20Grande%20%5BNOHUD%5D(1080P_HD)(720P_60FPS).mp4?v=1731718686795"
+    },
+    {
+      "title": "Stop This Fire",
+      "artist": "Nius",
+      "edition": "Just Dance 2025 Edition",
+      "image": "https://cdn.glitch.global/a1edb1e1-27cb-4f54-a59c-9ecd7ca713d2/StopThisFire.png?v=1731718792985",
+      "video": "https://cdn.glitch.me/a1edb1e1-27cb-4f54-a59c-9ecd7ca713d2/Just%20Dance%202025%20Edition%20-%20Stop%20This%20Fire%20by%20Nius%20%5BNOHUD%5D(720P_60FPS).mp4?v=1731718689822"
+    },
+    {
+      "title": "Good Ones",
+      "artist": "Charli XCX",
+      "edition": "Just Dance 2023 Edition",
+      "image": "https://cdn.glitch.global/a1edb1e1-27cb-4f54-a59c-9ecd7ca713d2/GoodOnes.png?v=1731724226348",
+      "video": "https://cdn.glitch.me/a1edb1e1-27cb-4f54-a59c-9ecd7ca713d2/goodones_0e09fa9159dbc9ed67e67b0d9957022d3fdac465_576p.mp4?v=1731724168109"
+    },
+    {
+      "title": "Boom Clap",
+      "artist": "Charli XCX",
+      "edition": "Just Dance 2015",
+      "image": "https://cdn.glitch.global/a1edb1e1-27cb-4f54-a59c-9ecd7ca713d2/boomclapdlc_cover.jpg?v=1731724196860",
+      "video": "https://cdn.glitch.me/a1edb1e1-27cb-4f54-a59c-9ecd7ca713d2/boomclapdlc_0d8efaea4666c462c1078e77ea5af75d38e1fbcf_576p.mp4?v=1731724234129"
+    },
+    {
+      "title": "Break My Heart",
+      "artist": "Dua Lipa",
+      "edition": "Just Dance 2022",
+      "image": "https://cdn.glitch.global/a1edb1e1-27cb-4f54-a59c-9ecd7ca713d2/breakmyheart_cover.jpg?v=1731725307581",
+      "video": "https://cdn.glitch.me/a1edb1e1-27cb-4f54-a59c-9ecd7ca713d2/breakmyheart_ca4d02b36f3f7d58d6c3259681e85d41a7d4edb9_576p.mp4?v=1731725261324"
+    },
+    {
+      "title": "You Don't Know Me",
+      "artist": "Jax Jones Ft. RAYE",
+      "edition": "Just Dance 2019",
+      "image": "https://cdn.glitch.global/a1edb1e1-27cb-4f54-a59c-9ecd7ca713d2/dontknowme_cover.jpg?v=1731725367419",
+      "video": "https://cdn.glitch.me/a1edb1e1-27cb-4f54-a59c-9ecd7ca713d2/dontknowme_29966a535b946d25698ed19473bb0d12dfb89800_576p.mp4?v=1731725409416"
+    },
+    {
+      "title": "Bang",
+      "artist": "Anitta",
+      "edition": "Just Dance 2017",
+      "image": "https://cdn.glitch.global/a1edb1e1-27cb-4f54-a59c-9ecd7ca713d2/bang_cover.jpg?v=1731725691450",
+      "video": "https://cdn.glitch.me/a1edb1e1-27cb-4f54-a59c-9ecd7ca713d2/bang_06f667ecd5f4bc033228f368931e9e863e6fbca4_576p.mp4?v=1731725708703"
+      },
+    {
+      "title": "CAN'T STOP THE FEELING!",
+      "artist": "Justin Timberlake",
+      "edition": "Just Dance 2023 Edition",
+      "image": "https://cdn.glitch.global/a1edb1e1-27cb-4f54-a59c-9ecd7ca713d2/cantstopthefeeling_cover.jpg?v=1731773815029",
+      "video": "https://cdn.glitch.me/a1edb1e1-27cb-4f54-a59c-9ecd7ca713d2/cantstopthefeeling_26259959e6c04e62a544021d1e500c42ff7b9c45_576p.mp4?v=1731773888280"
+    },
+    {
+  "title": "Macarena",
+  "artist": "The GirlyTeam",
+  "edition": "Just Dance 2015",
+  "image": "https://cdn.glitch.global/f26fabe1-0d65-4a52-b5f1-a029423de2b6/macarena_cover.jpg?v=1731775277926",
+  "video": "https://cdn.glitch.me/f26fabe1-0d65-4a52-b5f1-a029423de2b6/macarena_d0d8f5daa9e1617fbf805117a7f49fca4b874f7f_576p.mp4?v=1731775373735"
+},
+    {
+  "title": "Sax",
+  "artist": "Fleur East",
+  "edition": "Just Dance 2018",
+  "image": "https://cdn.glitch.global/f26fabe1-0d65-4a52-b5f1-a029423de2b6/sax_cover.jpg?v=1731775204981",
+  "video": "https://cdn.glitch.me/f26fabe1-0d65-4a52-b5f1-a029423de2b6/sax_3574b5773dcc4c28a72791225eaa8d3645f83ab2_576p.mp4?v=1731775249025"
+},
+    {
+  "title": "Save Your Tears",
+  "artist": "The Weeknd & Ariana Grande",
+  "edition": "Just Dance 2022",
+  "image": "https://cdn.glitch.global/f26fabe1-0d65-4a52-b5f1-a029423de2b6/saveyourtears_cover.jpg?v=1731775193465",
+  "video": "https://cdn.glitch.me/f26fabe1-0d65-4a52-b5f1-a029423de2b6/saveyourtears_bdf9e15e36c2176ee350eed938400f39eae3a76b_576p.mp4?v=1731775241345"
+},
+    {
+  "title": "Burn",
+  "artist": "Ellie Goulding",
+  "edition": "Just Dance 2015",
+  "image": "https://cdn.glitch.global/f26fabe1-0d65-4a52-b5f1-a029423de2b6/burn_cover.jpg?v=1731775189051",
+  "video": "https://cdn.glitch.me/f26fabe1-0d65-4a52-b5f1-a029423de2b6/burn_ed4a3cc30785381e35f630a6da5e52795717e76d_576p.mp4?v=1731775310550"
+},
+    {
+  "title": "Jopping",
+  "artist": "SuperM",
+  "edition": "Just Dance 2022",
+  "image": "https://cdn.glitch.global/f26fabe1-0d65-4a52-b5f1-a029423de2b6/jopping_cover.jpg?v=1731776316321",
+  "video": "https://cdn.glitch.me/f26fabe1-0d65-4a52-b5f1-a029423de2b6/jopping_4fabac97832114e9d0bd6a753b8ae71a091e301d_576p.mp4?v=1731776362612"
+},
+    {
+  "title": "Jopping - ALTERNATE",
+  "artist": "SuperM",
+  "edition": "Just Dance 2022",
+  "image": "https://cdn.glitch.global/f26fabe1-0d65-4a52-b5f1-a029423de2b6/joppingalt_cover.jpg?v=1731776325622",
+  "video": "https://cdn.glitch.me/f26fabe1-0d65-4a52-b5f1-a029423de2b6/joppingalt_65ebe625c417aa14c69e4e17aa1375c5aeab5614_576p.mp4?v=1731776385287"
+},
+    {
+  "title": "Kict It",
+  "artist": "NCT 127",
+  "edition": "Just Dance 2021",
+  "image": "https://cdn.glitch.global/f26fabe1-0d65-4a52-b5f1-a029423de2b6/kickit_cover.jpg?v=1731777066094",
+  "video": "https://cdn.glitch.me/f26fabe1-0d65-4a52-b5f1-a029423de2b6/kickit_7f874dd830b496a042219d2d0d967c60f5bab36c_576p.mp4?v=1731777103926"
+},
+    {
+  "title": "Kict It - ALTERNATE",
+  "artist": "NCT 127",
+  "edition": "Just Dance 2021",
+  "image": "https://cdn.glitch.global/f26fabe1-0d65-4a52-b5f1-a029423de2b6/kickitalt_cover.jpg?v=1731777110260",
+  "video": "https://cdn.glitch.me/f26fabe1-0d65-4a52-b5f1-a029423de2b6/kickitalt_50b99e01508f4348ebc66831bc2fc8963115ae5a_576p.mp4?v=1731777142137"
+},
+    {
+  "title": "Safe And Sound",
+  "artist": "Capital Cities",
+  "edition": "Just Dance 2014",
+  "image": "https://cdn.glitch.global/f26fabe1-0d65-4a52-b5f1-a029423de2b6/safeandsound_cover.jpg?v=1731777479564",
+  "video": "https://cdn.glitch.me/f26fabe1-0d65-4a52-b5f1-a029423de2b6/safeandsound_ab2d93a0ae82b08a69f16f9eb156f3ff817e8105_576p.mp4?v=1731777514760"
+},
+  {
+  "title": "Jai Ho! (You Are My Destiny)",
+  "artist": "A R Rahman and The Pussycat Dolls Ft. Nicole Scherzinger",
+  "edition": "Just Dance 2",
+  "image": "https://cdn.glitch.global/f26fabe1-0d65-4a52-b5f1-a029423de2b6/jaiho_cover.jpg?v=1731777587740",
+  "video": "https://cdn.glitch.me/f26fabe1-0d65-4a52-b5f1-a029423de2b6/jaiho_a5b427c6915a505f07941f20f7604ace4bc03f66_576p.mp4?v=1731777610806"
+},
+    {
+  "title": "Holiday",
+  "artist": "The Hit Crew",
+  "edition": "Just Dance 2",
+  "image": "https://cdn.glitch.global/f26fabe1-0d65-4a52-b5f1-a029423de2b6/holiday_cover.jpg?v=1731777801818",
+  "video": "https://cdn.glitch.me/f26fabe1-0d65-4a52-b5f1-a029423de2b6/holiday_8e81e15e7613d8273572ac09d2ff9d494531dc80_576p.mp4?v=1731777835944"
+},
+    {
+  "title": "Rabiosa",
+  "artist": "Shakira Ft. El Cata",
+  "edition": "Just Dance 2016",
+  "image": "https://cdn.glitch.global/f26fabe1-0d65-4a52-b5f1-a029423de2b6/rabiosa_cover.jpg?v=1731778165145",
+  "video": "https://cdn.glitch.me/f26fabe1-0d65-4a52-b5f1-a029423de2b6/rabiosa_7fd0a074b91d6bce1864668287689c31423cb5cd_576p.mp4?v=1731778214846"
+},
+    {
+  "title": "The Greatest",
+  "artist": "Sia",
+  "edition": "Just Dance 2017",
+  "image": "https://cdn.glitch.global/f26fabe1-0d65-4a52-b5f1-a029423de2b6/thegreatest_cover.jpg?v=1731778348271",
+  "video": "https://cdn.glitch.me/f26fabe1-0d65-4a52-b5f1-a029423de2b6/thegreatest_43a967d49aa8ac45274f483852e73c51ef2256bc_576p.mp4?v=1731778413032"
+},
+    {
+  "title": "Lean On",
+  "artist": "Major Lazer Ft.MØ & DJ Snake",
+  "edition": "Just Dance 2017",
+  "image": "https://cdn.glitch.global/f26fabe1-0d65-4a52-b5f1-a029423de2b6/leanon_cover.jpg?v=1731778353320",
+  "video": "https://cdn.glitch.me/f26fabe1-0d65-4a52-b5f1-a029423de2b6/leanon_c802d17ea3192347a964192a0d249671e5fd0443_576p.mp4?v=1731778400252"
+},
+    {
+  "title": "How Deep Is Your Love",
+  "artist": "Calvin Harris & Disciples",
+  "edition": "Just Dance 2017",
+  "image": "https://cdn.glitch.global/f26fabe1-0d65-4a52-b5f1-a029423de2b6/howdeep_cover.jpg?v=1731778359208",
+  "video": "https://cdn.glitch.me/f26fabe1-0d65-4a52-b5f1-a029423de2b6/howdeep_de261c680ec22a93487779f1bf07186c71c11084_576p.mp4?v=1731778417540"
+},
+    {
+  "title": "No Lie",
+  "artist": "Sean Paul Ft. Dua Lipa",
+  "edition": "Just Dance 2018",
+  "image": "https://cdn.glitch.global/f26fabe1-0d65-4a52-b5f1-a029423de2b6/nolie_cover.jpg?v=1731778364727",
+  "video": "https://cdn.glitch.me/f26fabe1-0d65-4a52-b5f1-a029423de2b6/nolie_713532fc75a08653d9728b21f86d2b0f442db153_576p.mp4?v=1731778411094"
+},
+    {
+  "title": "Say So",
+  "artist": "Doja Cat",
+  "edition": "Just Dance 2021",
+  "image": "https://cdn.glitch.global/f26fabe1-0d65-4a52-b5f1-a029423de2b6/sayso_cover.jpg?v=1731797903121",
+  "video": "https://cdn.glitch.me/f26fabe1-0d65-4a52-b5f1-a029423de2b6/sayso_f81ef015be2b81807e1c1ac25b77db3bde988b0d_576p.mp4?v=1731797966593"
+},
+    {
+  "title": "1999",
+  "artist": "Charli XCX & Troye Sivan",
+  "edition": "Just Dance 2020",
+  "image": "https://cdn.glitch.global/f26fabe1-0d65-4a52-b5f1-a029423de2b6/1999_cover.jpg?v=1731798679004",
+  "video": "https://cdn.glitch.me/f26fabe1-0d65-4a52-b5f1-a029423de2b6/1999_044fc119808d40f27e6bdc7562b2dc72173676b8_576p.mp4?v=1731798721381"
+},
+    {
+  "title": "Disturbia",
+  "artist": "Rihanna",
+  "edition": "Just Dance 4",
+  "image": "https://cdn.glitch.global/f26fabe1-0d65-4a52-b5f1-a029423de2b6/6.png?v=1731799768019",
+  "video": "https://cdn.glitch.me/f26fabe1-0d65-4a52-b5f1-a029423de2b6/Just%20Dance%20Unlimited%20(JD4)%20-%20Disturbia%20by%20Rihanna%20%5BNO%20HUD%5D(720P_HD).mp4?v=1731800499763"
+},
+    {
+  "title": "We Can´t Stop",
+  "artist": "Miley Cyrus",
+  "edition": "Just Dance 2015",
+  "image": "https://cdn.glitch.global/f26fabe1-0d65-4a52-b5f1-a029423de2b6/2.png?v=1731799757463",
+  "video": "https://cdn.glitch.me/f26fabe1-0d65-4a52-b5f1-a029423de2b6/Just%20Dance%20We%20Can_t%20Stop%20No%20Hud%20(JD2015%20Version)(1080P_HD)(720P_60FPS).mp4?v=1731800539737"
+},
+    {
+  "title": "Dançando",
+  "artist": "Ivete sangalo",
+  "edition": "Just Dance 2014",
+  "image": "https://cdn.glitch.global/f26fabe1-0d65-4a52-b5f1-a029423de2b6/3.png?v=1731799759733",
+  "video": "https://cdn.glitch.me/f26fabe1-0d65-4a52-b5f1-a029423de2b6/Just%20Dance%202014%20%20%20Dan%C3%A7ando%20(without%20HUD)(1080P_HD).mp4?v=1731800504318"
+},
+    {
+  "title": "Diamonds",
+  "artist": "Rihanna",
+  "edition": "Just Dance 2015",
+  "image": "https://cdn.glitch.global/f26fabe1-0d65-4a52-b5f1-a029423de2b6/5.png?v=1731799764129",
+  "video": "https://cdn.glitch.me/f26fabe1-0d65-4a52-b5f1-a029423de2b6/Just%20Dance%20-%20Diamonds%20-%20No%20Hud(1080P_60FPS).mp4?v=1731800613352"
+},
+    {
+  "title": "Pon De Replay",
+  "artist": "Rihanna",
+  "edition": "Just Dance Greatests hits",
+  "image": "https://cdn.glitch.global/f26fabe1-0d65-4a52-b5f1-a029423de2b6/1.png?v=1731799749741",
+  "video": "https://cdn.glitch.me/f26fabe1-0d65-4a52-b5f1-a029423de2b6/Just%20Dance%20-%20Pon%20de%20Replay%20-%20No%20Hud(720P_60FPS).mp4?v=1731800445863"
+},
+    {
+  "title": "Timber",
+  "artist": "Pitbull ft. Kesha",
+  "edition": "Just Dance 2014",
+  "image": "https://cdn.glitch.global/f26fabe1-0d65-4a52-b5f1-a029423de2b6/4.png?v=1731799762668",
+  "video": "https://cdn.glitch.me/f26fabe1-0d65-4a52-b5f1-a029423de2b6/Just%20Dance%202014%20-%20Timber%20-%20No%20Hud%20-%2050FPS(720P_60FPS).mp4?v=1731800373888"
+},
+{
+  "title": "Witch",
+  "artist": "Apache ft. Alina Pash",
+  "edition": "Just Dance 2023 Edition",
+  "image": "https://cdn.glitch.global/f26fabe1-0d65-4a52-b5f1-a029423de2b6/witch_cover.jpg?v=1731812221681",
+  "video": "https://cdn.glitch.me/f26fabe1-0d65-4a52-b5f1-a029423de2b6/witch_3ec1b7197e70b181bee05dd55e6553ae39da450f_576p.mp4?v=1731812246852"
+},
+{
+  "title": "Poster Girl",
+  "artist": "Zara Larsson",
+  "edition": "Just Dance 2022",
+  "image": "https://cdn.glitch.global/f26fabe1-0d65-4a52-b5f1-a029423de2b6/siargo_cover.jpg?v=1731851074298",
+  "video": "https://cdn.glitch.me/f26fabe1-0d65-4a52-b5f1-a029423de2b6/siargo_b34b56097a6d1fc2d7fdfcc390b689ff50ec2e2b_576p.mp4?v=1731851112821"
+},
+{
+  "title": "After Party",
+  "artist": "Banx and Ranx ft. Zach Zoya",
+  "edition": "Just Dance 2024 Edition",
+  "image": "https://cdn.glitch.global/f26fabe1-0d65-4a52-b5f1-a029423de2b6/afterparty_cover.jpg?v=1731851201545",
+  "video": "https://cdn.glitch.me/f26fabe1-0d65-4a52-b5f1-a029423de2b6/afterparty_50814ce95592fc3b3db0c7cde595da5135a9e327_576p.mp4?v=1731851241393"
+},
+    {
+  "title": "Sweet But Psycho",
+  "artist": "Ava Max",
+  "edition": "Just Dance 2023 Edition",
+  "image": "https://cdn.glitch.global/f26fabe1-0d65-4a52-b5f1-a029423de2b6/sweetbutpsycho_cover.jpg?v=1731851588659",
+  "video": "https://cdn.glitch.me/f26fabe1-0d65-4a52-b5f1-a029423de2b6/sweetbutpsycho_9c00f9bc92f8e67ec9f75d823e2fdc9687dfc7cc_576p.mp4?v=1731851676811"
+},
+    {
+  "title": "Koi",
+  "artist": "Gen Hoshino",
+  "edition": "Just Dance 2022",
+  "image": "https://cdn.glitch.global/f26fabe1-0d65-4a52-b5f1-a029423de2b6/koi_cover.jpg?v=1731851562985",
+  "video": "https://cdn.glitch.me/f26fabe1-0d65-4a52-b5f1-a029423de2b6/koi_97ec66ddf36865c43b2a691ee83d264653aefabc_576p.mp4?v=1731851674118"
+},
+    {
+  "title": "Rather Be",
+  "artist": "Clean Bandit Ft. Jess Glynne",
+  "edition": "Just Dance 2023 Edition",
+  "image": "https://cdn.glitch.global/f26fabe1-0d65-4a52-b5f1-a029423de2b6/ratherbe_cover.jpg?v=1731851599104",
+  "video": "https://cdn.glitch.me/f26fabe1-0d65-4a52-b5f1-a029423de2b6/ratherbe_66b8d507bfd5b800266f6cc8350aad0b42a16c18_576p.mp4?v=1731851778883"
+},
+    {
+  "title": "Girl Like Me - EXTREME",
+  "artist": "Black Eyed Peas X Shakira",
+  "edition": "Just Dance 2022",
+  "image": "https://cdn.glitch.global/f26fabe1-0d65-4a52-b5f1-a029423de2b6/girllikemealt_cover.jpg?v=1731851570833",
+  "video": "https://cdn.glitch.me/f26fabe1-0d65-4a52-b5f1-a029423de2b6/girllikemealt_89db1d7f9365304d04fc800937ec19c7eab57e0f_576p.mp4?v=1731851667226"
+},
+{
+  "title": "Love You Like A Love Song",
+  "artist": "Selena Gomez and The Scene",
+  "edition": "Just Dance 4",
+  "image": "https://files.catbox.moe/uadcad.jpg",
+  "video": "https://files.catbox.moe/6hz8cl.mp4"
+},
+  {
+  "title": "Black Widow",
+  "artist": "Iggy Azalea Ft. Rita Ora",
+  "edition": "Just Dance 2015",
+  "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/BlackWidow_1647267345402/assets/app/blackwidow_cover.jpg",
+  "video": "https://mp4.justdancenow.com/blackwidow_b318e2d2d8bfbb01f6ad4bd078f27363fae15be2_576p.mp4?hlscookie=st=1734044418~exp=1735340418~acl=/blackwidow_b318e2d2d8bfbb01f6ad4bd078f27363fae15be2_576p.mp4~hmac=69cd584c53b5660e9ce681eb7736cbbe5d76e08b48bd3f1b62ffe30de6ff4737"
+},
+{
+  "title": "7 Rings",
+  "artist": "Ariana Grande",
+  "edition": "Just Dance 2020",
+  "image": "https://images-ext-1.discordapp.net/external/W1el66GxDMuQXhKJShL3vzL8U1jVmK0pwhHReWYCHuo/https/jdnow-api-contentapistoragest.justdancenow.com/songs/7Rings_1594395282721/assets/app/7rings_cover.jpg",
+  "video": "https://mp4.justdancenow.com/7rings_3a8d81bc667b72d7028265303ddc47d533e4508c_576p.mp4?hlscookie=st=1734148471~exp=1735444471~acl=/7rings_3a8d81bc667b72d7028265303ddc47d533e4508c_576p.mp4~hmac=1b130b54c08b671e36c721652add5914de48a53e41cd4b9ba2aefadd7e05cc30"
+},
+{
+  "title": "7 Rings - EXTREME VERSION",
+  "artist": "Ariana Grande",
+  "edition": "Just Dance 2020",
+  "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/7RingsALT_1594395458603/assets/app/7ringsalt_cover.jpg",
+  "video": "https://mp4.justdancenow.com/7ringsalt_37e13e85d6a39cd011701c9167cfb345b8afdf5b_576p.mp4?hlscookie=st=1734148498~exp=1735444498~acl=/7ringsalt_37e13e85d6a39cd011701c9167cfb345b8afdf5b_576p.mp4~hmac=af7ae4783632c1678537d67955fce0cad947efa488266a70886e629981794df9"
+},
+{
+  "title": "Fun",
+  "artist": "Pitbull.ft Chris Brown",
+  "edition": "Just Dance 2016",
+  "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Fun_1598521798957/assets/app/fun_cover.jpg",
+  "video": "https://mp4.justdancenow.com/fun_cc9161b58f02f64cab9bfe741d3b4687cc7fc8be_576p.mp4?hlscookie=st=1734149058~exp=1735445058~acl=/fun_cc9161b58f02f64cab9bfe741d3b4687cc7fc8be_576p.mp4~hmac=f75d1ec056df977241d6009cec0559f0c3fd9ad71c0dacd8b5024e4c29be670b"
+},
+{
+  "title": "Slumber Party",
+  "artist": "Britney Spears",
+  "edition": "Just Dance 2018",
+  "image": "https://images-ext-1.discordapp.net/external/iRgpNMwtYgEjfcIhxWtWhGD0UKrpMBval9KJXHyfPfE/https/jdhelper-cdn.ramaprojects.ru/jdnext/cover/SlumberParty.png",
+  "video": "https://mp4.justdancenow.com/slumberparty_18d06c6816a6d4cc90b7083c1f498fad400b3c52_576p.mp4?hlscookie=st=1734150004~exp=1735446004~acl=/slumberparty_18d06c6816a6d4cc90b7083c1f498fad400b3c52_576p.mp4~hmac=acde89c73176ddbaba5ae50cfa83a7db495a24815db8fd4c2fefaf3feafd4c9d"
+},
+{
+  "title": "Fancy",
+  "artist": "Iggy Azalea Ft. Charli XCX",
+  "edition": "Just Dance 2016",
+  "image": "https://images-ext-1.discordapp.net/external/J_pelGuIZlBKjR7UNoqIyNliK-7MkJwshQyAaPi35UM/https/jdnow-api-contentapistoragest.justdancenow.com/songs/Fancy_1598520908831/assets/app/fancy_cover.jpg?format=webp&width=400&height=200",
+  "video": "https://mp4.justdancenow.com/fancy_a6573f97aff3e732735ee05bc8b2ef6978284f65_576p.mp4?hlscookie=st=1734189786~exp=1735485786~acl=/fancy_a6573f97aff3e732735ee05bc8b2ef6978284f65_576p.mp4~hmac=cab636e18c0f39005d3a594f562992efc4cdda1bcab5c91dead99ba562bb1094"
+},
+{
+  "title": "Black Mamba - EXTREME VERSION",
+  "artist": "AESPA",
+  "edition": "Just Dance 2022",
+  "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/BlackMam_1655225289971/assets/app/blackmam_cover.jpg",
+  "video": "https://mp4.justdancenow.com/blackmam_bcc52526166e86b81c942b941e2b312aee2e7b66_576p.mp4?hlscookie=st=1734190198~exp=1735486198~acl=/blackmam_bcc52526166e86b81c942b941e2b312aee2e7b66_576p.mp4~hmac=7de0348b079c15529fff3efb9e4b155022b5a0395f2b7ba8429efbf1ccd18c7d"
+},
+  {
+  "title": "舞娘 (Wu Niang)",
+  "artist": "The Girly Team",
+  "edition": "Just Dance 2015 CHN",
+  "image": "https://cdn.glitch.global/b412a63a-f5e9-4883-b3cc-fafa4c689128/23231132-71d6-48ef-a1d3-845e7b0b75c0.image.png?v=1734737523194",
+  "video": "https://firebasestorage.googleapis.com/v0/b/just-dance-now-luna.appspot.com/o/NoHud_Lively%2FJust%20Dance%20China%20-%20Dancing%20Diva%20(%E8%88%9E%E5%A8%98)%20cover%20by%20The%20Girly%20Team%20_%20Full%20HD%20NO%20HUD(1080P_HD).mp4?alt=media&token=9d9e9eb2-7587-4b46-bd94-ec6450fa5dee"
+},
+  {
+  "title": "Chiwawa",
+  "artist": "Wanko Ni Mero Mero",
+  "edition": "Just Dance 2016",
+  "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Chiwawa_1598463082547/assets/app/chiwawa_cover.jpg",
+  "video": "https://mp4.justdancenow.com/chiwawa_a117084e4ddfe947185c13f7bc3719f3f468ab36_576p.mp4?hlscookie=st=1734651454~exp=1735947454~acl=/chiwawa_a117084e4ddfe947185c13f7bc3719f3f468ab36_576p.mp4~hmac=fddd61a162328bba9c65e9913642c66e2f856d0ace2b155bc23563e7f98044d4"
+  },
+    {
+  "title": "Oh No!",
+  "artist": "Marina and The Diamonds",
+  "edition": "Just Dance 4",
+  "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/OhNo_1598538600022/assets/app/ohno_cover.jpg",
+  "video": "https://mp4.justdancenow.com/ohno_2f4636d7132e438c58673f8b2099ce933e63a5ab_576p.mp4?hlscookie=st=1734653159~exp=1735949159~acl=/ohno_2f4636d7132e438c58673f8b2099ce933e63a5ab_576p.mp4~hmac=bd8dfbef625aa4b386b40d4c48f1826dea4f57267686edaf397ea2bda2c841a3"
+},
+    {
+  "title": "Applause",
+  "artist": "Lady Gaga",
+  "edition": "Just Dance 2014",
+  "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/LimaGolf1_1598530955554/assets/app/limagolf1_cover.jpg",
+  "video": "https://mp4.justdancenow.com/limagolf1_4dff1c2cd42097f07e5af8f8de2c8245488a8353_576p.mp4?hlscookie=st=1734653516~exp=1735949516~acl=/limagolf1_4dff1c2cd42097f07e5af8f8de2c8245488a8353_576p.mp4~hmac=759fd58ffb87e340346004352f42c6da4597d7b25d5a2ecd1e06441dd463a8a1"      
+    },
+      {
+  "title": "Cola Song",
+  "artist": "INNA Ft. J Balvin",
+  "edition": "Just Dance 2017",
+  "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/ColaSong_1598463591140/assets/app/colasong_cover.jpg",
+  "video": "https://mp4.justdancenow.com/colasong_c374a0364753ca758dfaccc1bf2b47ea21ab1069_576p.mp4?hlscookie=st=1734653846~exp=1735949846~acl=/colasong_c374a0364753ca758dfaccc1bf2b47ea21ab1069_576p.mp4~hmac=e5e8cde2a3a8b67212a72f14f9f41d73f827e4bf5613d567773d4cea6cf271e8"
+},
+    {
+  "title": "You Make Me Feel...",
+  "artist": "Cobra Starship Ft. Sabi",
+  "edition": "Just Dance 4",
+  "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/YouMakeMeFeelDLC_1598608374838/assets/app/youmakemefeeldlc_cover.jpg",
+  "video": "https://mp4.justdancenow.com/youmakemefeeldlc_fd96491fe4953bf3fa5f5b5a40561a10cea005ae_576p.mp4?hlscookie=st=1734654035~exp=1735950035~acl=/youmakemefeeldlc_fd96491fe4953bf3fa5f5b5a40561a10cea005ae_576p.mp4~hmac=32bb6eab92a6d05e879a84dfd50519300a315a49d65aad643b97d8bc0f8bb6f2"
+},
+    {
+  "title": "Acceptable In The 80s",
+  "artist": "Calvin Harris",
+  "edition": "Just Dance 1",
+  "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/Acceptable_1597235674190/assets/app/acceptable_cover.jpg",
+  "video": "https://mp4.justdancenow.com/acceptable_4d408d1695912c6d0ede654c27c296e14a9700d3_576p.mp4?hlscookie=st=1734654118~exp=1735950118~acl=/acceptable_4d408d1695912c6d0ede654c27c296e14a9700d3_576p.mp4~hmac=9ea697650ba6874fa64d2cb17bf26aa8610b6020ccb1797f4d99ba44d94f392c"
+},
+    {
+  "title": "Firework",
+  "artist": "Katy Perry",
+  "edition": "Just Dance 2",
+  "image": "https://firebasestorage.googleapis.com/v0/b/just-dance-now-luna.appspot.com/o/firework_cover.jpg?alt=media&token=5442eaae-6bd0-48b1-885f-4764f6589613",
+  "video": "https://firebasestorage.googleapis.com/v0/b/just-dance-now-luna.appspot.com/o/firework_89eedd1fd50ab33adec07b6b0daa1cdf592a671b_576p.mp4?alt=media&token=48a0503d-048d-4b6f-ac23-c7807675d0de"
+},
+    {
+  "title": "#thatPOWER - ALTERNATE",
+  "artist": "will.i.am .Ft Justin Bieber",
+  "edition": "Just Dance 2014",
+  "image": "https://firebasestorage.googleapis.com/v0/b/just-dance-now-luna.appspot.com/o/Song_Cover%2Fthatpoweralt_cover.jpg?alt=media&token=cb724dc9-4da4-44bc-8b53-a4074f994bd3",
+  "video": "https://firebasestorage.googleapis.com/v0/b/just-dance-now-luna.appspot.com/o/NoHud_Lively%2Fthatpoweralt_8433b571e424eadc1c9a3e779bebf1dda1bd77d0_576p.mp4?alt=media&token=20d311ac-8bdf-4471-8500-7ae5acb64f66"
+},
+    {
+  "title": "El Tiki - ALTERNATE",
+  "artist": "Maluma",
+  "edition": "Just Dance 2017",
+  "image": "https://firebasestorage.googleapis.com/v0/b/just-dance-now-luna.appspot.com/o/Song_Cover%2Feltikialt_cover.jpg?alt=media&token=7381e3a6-40a6-4335-b94d-4adcb08640b4",
+  "video": "https://firebasestorage.googleapis.com/v0/b/just-dance-now-luna.appspot.com/o/NoHud_Lively%2Feltikialt_ab54e7cb9f95d76693722c43cc9e4d7b3264a812_576p.mp4?alt=media&token=b69dfb52-aafb-4007-a05c-ed036ad1f532"
+},
+    {
+  "title": "Levan Polkka",
+  "artist": "Hatsune Miku",
+  "edition": "Just Dance 2016",
+  "image": "https://firebasestorage.googleapis.com/v0/b/just-dance-now-luna.appspot.com/o/Song_Cover%2Flevanpolkka_cover.jpg?alt=media&token=c09fd70d-b1c6-433a-a649-ffd522273ca8",
+  "video": "https://firebasestorage.googleapis.com/v0/b/just-dance-now-luna.appspot.com/o/NoHud_Lively%2Flevanpolkka_916ee84eac6889c9b3f6dd6e730f6845225415fa_576p.mp4?alt=media&token=13288d9c-58fd-44e4-9e4e-525c28a1c488"
+}, 
+    {
+  "title": "PoPiPo",
+  "artist": "Hatsune Miku",
+  "edition": "Just Dance 2017",
+  "image": "https://firebasestorage.googleapis.com/v0/b/just-dance-now-luna.appspot.com/o/Song_Cover%2Fpopipo_cover.jpg?alt=media&token=3ce35e65-0565-485d-b072-e9a247368cc9",
+  "video": "https://firebasestorage.googleapis.com/v0/b/just-dance-now-luna.appspot.com/o/NoHud_Lively%2Fpopipo_576p.mp4?alt=media&token=e210a4ef-566c-43dc-9e1c-6fb899434417"
+},
+  {
+  "title": "Drum Go Dum",
+  "artist": "K/DA",
+  "edition": "Just Dance 2021",
+  "image": "https://jdnow-api-contentapistoragest.justdancenow.com/songs/KDance_1613500733136/assets/app/kdance_cover.jpg",
+  "video": "https://mp4.justdancenow.com/kdance_85da4ed5539ad5e3e52371b6a01d530c367c631d_576p.mp4?hlscookie=st=1734906764~exp=1736202764~acl=/kdance_85da4ed5539ad5e3e52371b6a01d530c367c631d_576p.mp4~hmac=c23803580176f94814c5869834bf144beed7826df6f1503a36a1c15dedd373cf"
+},
+ {
+  "title": "The Way",
+  "artist": "Ariana Grande Ft. Mac Miller",
+  "edition": "Just Dance 2014",
+  "image": "https://images-ext-1.discordapp.net/external/pxr3aVlSihVvC3S_C60LCF6u2oHaJBHGcxTlecsw6mg/https/jdnow-api-contentapistoragest.justdancenow.com/songs/TheWay_1598551201370/assets/app/theway_cover.jpg",
+  "video": "https://mp4.justdancenow.com/theway_59bc6625bcde666476434023e0533084542c9f63_576p.mp4?hlscookie=st=1735336753~exp=1736632753~acl=/theway_59bc6625bcde666476434023e0533084542c9f63_576p.mp4~hmac=af26c186bd2ab51a72f382356f3b3e42c2b30451a32ab10e839390f0cf064b0c"
+},
+{
+  "title": "Break Free",
+  "artist": "Ariana Grande",
+  "edition": "Just Dance 2015",
+  "image": "https://firebasestorage.googleapis.com/v0/b/just-dance-now-luna.appspot.com/o/Song_Cover%2Fbreakfreedlc_cover.jpg?alt=media&token=564c26b0-1e90-4355-aa3f-a547aa923b9f",
+  "video": "https://firebasestorage.googleapis.com/v0/b/just-dance-now-luna.appspot.com/o/NoHud_Lively%2Fbreakfreedlc_3193fa27ea1eae2c6142b94f070bfaa0aeae050a_576p.mp4?alt=media&token=18bf1162-337d-46fc-abf8-eb55f581e85a"
+}
+  ]
+}
